@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋︱Ola, me chamo Thiago Francisco.
 
-<!--
-**tigotop/tigotop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ℹ️ - Sobre Mim
 
-Here are some ideas to get you started:
+- 🍅︱Idade: ```14 anos```
+- 🔖︱Tag do discord: ```Thiago Francisco#6766```
+- 📣︱Canal no YouTube: ```Tigo Rabisco```
+- 📌︱Projetos: ```Axolot, Tigo Cururu```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://github.com/tigotop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tigotop&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+</div>

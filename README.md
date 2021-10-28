@@ -1,10 +1,10 @@
 ## 👋︱Ola, me chamo Thiago Francisco.
 
-#### ℹ️ - Sobre Mim
+### ℹ️ - Sobre Mim
 
-- 🎀︱Nome: Thiago Francisco
+- 🎀︱Nome: ```Thiago Francisco```
 - 🍅︱Idade: ```14 anos```
-- 🌶️︱Estado: Minas Gerais
+- 🌶️︱Estado: ```Minas Gerais```
 - 🔖︱Tag do discord: ```Thiago Francisco#6766```
 - 📣︱Canal no YouTube: ```Tigo Rabisco```
 - 📌︱Projetos: ```Axolot, Tigo Cururu```
